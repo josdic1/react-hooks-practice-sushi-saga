@@ -1,0 +1,1 @@
+export const SUSHI_API = "http://localhost:3001/sushis";
